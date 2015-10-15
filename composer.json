@@ -1,14 +1,14 @@
 {
-	"name": "silverstripe/secureassets",
+	"name": "jzubero/secureassets",
 	"type": "silverstripe-module",
-	"description": "Adds access restrictions to folders in assets, similar to the way you secure pages",
-	"homepage": "http://silverstripe.org",
+	"description": "Adds access restrictions to folders and files in assets, similar to the way you secure pages",
+	"homepage": "http://lvl51.de",
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "assets", "secure", "files"],
 	"authors": [
 		{
-			"name": "Sean Harvey",
-			"email": "sean@silverstripe.com"
+			"name": "Julian Scheuchenzuber",
+			"email": "js@lvl51.de"
 		}
 	],
 	"require": {
